@@ -40,5 +40,5 @@ The dataset used for this analysis contains Amazon sales data with the following
 You can clone this repository to your local machine and explore the Sales Performance Metrics Dashboards in both Excel and Power BI.
 
 ```bash
-git clone https://github.com/HloHarshit/Amazon-Sales-Performance-Metrics-Dashboard.git
+git clone https://github.com/hiharshit/Amazon-Sales-Performance-Metrics-Dashboard.git
 ```
